@@ -1,2 +1,1 @@
-Cookies.set("bruh","yo mama");
-
+document.cookie = "username=Anas Kattan";
