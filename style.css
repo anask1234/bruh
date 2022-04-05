@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+*{
+  font-family: 'Comfortaa', cursive;
+}
+
+.head{
+  padding: 2rem;
+  font-family: 'Rubik Wet Paint', cursive;
+  
+}
+@media screen and (min-width: 601px) {
+  head {
+    font-size: 80px;
+  }
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  head {
+    font-size: 30px;
+  }
+}
+
+@media screen and (min-width: 601px) {
+  sub {
+    font-size: 60px;
+  }
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  sub {
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width: 601px) {
+  moolah {
+    font-size: 55px;
+  }
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  moolah {
+    font-size: 10px;
+  }
+}
