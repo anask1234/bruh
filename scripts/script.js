@@ -1,1 +1,1 @@
-document.cookie = "username=Anas Kattan";
+document.cookie = "easteregg=/5377egg.html";
